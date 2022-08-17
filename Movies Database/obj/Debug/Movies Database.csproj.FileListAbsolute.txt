@@ -1,0 +1,12 @@
+D:\Downloads\Movies Database\Movies Database\bin\Debug\Movies Database.exe.config
+D:\Downloads\Movies Database\Movies Database\bin\Debug\Movies Database.exe
+D:\Downloads\Movies Database\Movies Database\bin\Debug\Movies Database.pdb
+D:\Downloads\Movies Database\Movies Database\obj\Debug\Movies Database.csproj.AssemblyReference.cache
+D:\Downloads\Movies Database\Movies Database\obj\Debug\Movies Database.csproj.SuggestedBindingRedirects.cache
+D:\Downloads\Movies Database\Movies Database\obj\Debug\Movies_Database.Form1.resources
+D:\Downloads\Movies Database\Movies Database\obj\Debug\Movies_Database.frmAdd.resources
+D:\Downloads\Movies Database\Movies Database\obj\Debug\Movies_Database.Properties.Resources.resources
+D:\Downloads\Movies Database\Movies Database\obj\Debug\Movies Database.csproj.GenerateResource.cache
+D:\Downloads\Movies Database\Movies Database\obj\Debug\Movies Database.csproj.CoreCompileInputs.cache
+D:\Downloads\Movies Database\Movies Database\obj\Debug\Movies Database.exe
+D:\Downloads\Movies Database\Movies Database\obj\Debug\Movies Database.pdb
